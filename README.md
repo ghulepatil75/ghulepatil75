@@ -44,6 +44,59 @@
 
 🌟 Top Projects
 
+- 🚀 ESP32 IoT Dashboard
+- 🤖 Smart Automation System
+- 🌐 Personal Portfolio Website
+
+---
+
+📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ghulepatil75">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge"/>
+  </a>
+</p>---
+
+⚡ Fun Fact
+
+💡 I turn ideas into real working projects 😎
+
+---
+
+💥 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghulepatil75&color=blueviolet&style=for-the-badge" />
+</p>---
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star!
+</p>  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-Black?logo=git&style=for-the-badge"/>
+</p>---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghulepatil75&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulepatil75&layout=compact&theme=tokyonight" />
+</p>---
+
+🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ghulepatil75&theme=tokyonight" />
+</p>---
+
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ghulepatil75/ghulepatil75/output/github-contribution-grid-snake.svg" />
+</p>---
+
+🌟 Top Projects
+
 🚀 ESP32 IoT Dashboard
 🤖 Smart Automation System
 🌐 Personal Portfolio Website
